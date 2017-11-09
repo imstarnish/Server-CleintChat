@@ -1,0 +1,1 @@
+To run the programs on your pc change the ip address to localhost, or between two different computers enter thier respective ip addresses
